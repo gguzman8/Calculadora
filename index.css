@@ -1,0 +1,13 @@
+*{
+background-color: beige;
+}
+
+h1{  
+    font-family:system-ui;
+    text-align: left;
+    font-size: 300%;
+    background-color: rgb(177, 152, 134);
+    color:rgb(247, 244, 243);
+    padding: 20px;}
+
+    
