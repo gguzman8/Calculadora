@@ -10,4 +10,20 @@ h1{
     color:rgb(247, 244, 243);
     padding: 20px;}
 
-    
+.boton{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px black;
+    border-radius: 10px;
+
+}
+.verde {
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    box-shadow:  5px 5px black;
+    border-radius: 10px;
+}
